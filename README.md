@@ -7,7 +7,7 @@ you learn new bioinformatics algorithms, as well as various computational techni
 
 | Topic              | Slides PDF                         | Tutorial                           | Additional Exercises                                              |
 |:------------------:|:---------------------------------:|:---------------------------------:|:----------------------------------------------------------------:|
-| DNA Replication    | [Day 1](./Day1_Chapter1_DNA-Replication.pdf)      | [Tutorial]() | [Exercise 1]()    |
+| DNA Replication    | [Day 1](.slides/Day1_Chapter1_DNA-Replication.pdf)      | [Tutorial]() | [Exercise 1]()    |
 | DNA Replication    | [Day 2](./)      | [Tutorial]() | [Exercise 1](./)               |
 | Genome Assembly    | [Day 3](./)      | [Tutorial]() | [Exercise 1](./)                |
 | Sequence Alignment | [Day 4](./)      | [Tutorial]() | [Exercise 1](./)                |
