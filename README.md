@@ -5,8 +5,6 @@ you learn new bioinformatics algorithms, as well as various computational techni
 
 ## Materials (will be updated daily)
 
-## Materials (will be updated daily)
-
 | Topic              | Slides PDF                         | Tutorial                           | Additional Exercises                                              |
 |:------------------:|:---------------------------------:|:---------------------------------:|:----------------------------------------------------------------:|
 | DNA Replication    | [Day 1](./Day1_Chapter1_DNA-Replication.pdf)      | [Tutorial]() | [Exercise 1]()    |
@@ -14,6 +12,8 @@ you learn new bioinformatics algorithms, as well as various computational techni
 | Genome Assembly    | [Day 3](./)      | [Tutorial]() | [Exercise 1](./)                |
 | Sequence Alignment | [Day 4](./)      | [Tutorial]() | [Exercise 1](./)                |
 
+## Python Installation
+In order to download Python in your local device, please refer to the guide [here](./python%20installation%20guide.pdf)
 
 ## Dependencies
 
