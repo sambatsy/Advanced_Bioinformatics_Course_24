@@ -1,4 +1,4 @@
-# Stage 3: Advanced Bioinformatics
+# Stage 3: Advanced Bioinformatics 🧬
 
 Welcome to stage 3 of the Bioinformatics Program! This repository contains lecture slides and tutorials in Python that will help
 you learn new bioinformatics algorithms, as well as various computational techniques and tools used for analyzing biological data.
